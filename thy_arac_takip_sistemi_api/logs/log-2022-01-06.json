@@ -1,0 +1,19 @@
+{ "time": "2022-01-06 16:22:04.0219", "level": "INFO", "Properties": { "message": "Get Agent Reservations With AgentId Trying" } }
+{ "time": "2022-01-06 16:22:04.1289", "level": "INFO", "Properties": { "message": "Get Agent Reservations With AgentId Trying agentID =  12" } }
+{ "time": "2022-01-06 16:22:04.1711", "level": "INFO", "Properties": { "message": "Get Agent Reservations OK agentId= 12" } }
+{ "time": "2022-01-06 16:22:20.4820", "level": "INFO", "Properties": { "message": "Get All Reservations Trying" } }
+{ "time": "2022-01-06 16:22:20.6722", "level": "INFO", "Properties": { "message": "Get All Reservations OK! RETURNING MODEL" } }
+{ "time": "2022-01-06 16:41:53.7715", "level": "INFO", "Properties": { "message": "Get All Reservations Trying" } }
+{ "time": "2022-01-06 16:41:53.9211", "level": "INFO", "Properties": { "message": "Get All Reservations OK! RETURNING MODEL" } }
+{ "time": "2022-01-06 17:07:41.1678", "level": "INFO", "Properties": { "message": "Get All Reservations Trying" } }
+{ "time": "2022-01-06 17:07:43.1157", "level": "INFO", "Properties": { "message": "Get All Reservations OK! RETURNING MODEL" } }
+{ "time": "2022-01-06 17:17:23.0359", "level": "INFO", "Properties": { "message": "Create Reader Module Starting" } }
+{ "time": "2022-01-06 17:17:23.4835", "level": "INFO", "Properties": { "message": "Create Reader Module Finished Returning OK" } }
+{ "time": "2022-01-06 17:32:35.1092", "level": "INFO", "Properties": { "message": "Create Reader Module Starting" } }
+{ "time": "2022-01-06 17:32:37.5098", "level": "INFO", "Properties": { "message": "Create Reader Module Finished Returning OK" } }
+{ "time": "2022-01-06 17:34:37.5633", "level": "INFO", "Properties": { "message": "Create Reader Module Starting" } }
+{ "time": "2022-01-06 17:34:37.9771", "level": "INFO", "Properties": { "message": "Create Reader Module Finished Returning OK" } }
+{ "time": "2022-01-06 17:43:06.0877", "level": "INFO", "Properties": { "message": "Create Reader Module Starting" } }
+{ "time": "2022-01-06 17:43:07.8342", "level": "INFO", "Properties": { "message": "Create Reader Module Finished Returning OK" } }
+{ "time": "2022-01-06 17:55:53.8093", "level": "INFO", "Properties": { "message": "Update Door States Starting" } }
+{ "time": "2022-01-06 17:55:54.2696", "level": "ERROR", "Properties": { "message": "Update Door States ReaderId or Door Data NOT null But Flag is False Exception : 111000NN1100" } }

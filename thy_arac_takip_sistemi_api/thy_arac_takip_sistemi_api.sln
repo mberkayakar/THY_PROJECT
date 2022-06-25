@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thy_arac_takip_sistemi_api", "thy_arac_takip_sistemi_api.csproj", "{827EED79-344A-4326-AF7A-8A72C37BA0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827EED79-344A-4326-AF7A-8A72C37BA0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827EED79-344A-4326-AF7A-8A72C37BA0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827EED79-344A-4326-AF7A-8A72C37BA0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827EED79-344A-4326-AF7A-8A72C37BA0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A0C7EE-60E7-41B7-8C5E-B4ED319745C9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,423 @@
+2022-03-30 15:32:47.5050 Info AppDomain Shutting down. Logger closing...
+2022-03-30 15:32:47.5393 Info Logger has been shut down.
+2022-03-30 15:32:52.2401 Info Message Template Auto Format enabled
+2022-03-30 15:32:52.2609 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-30 15:32:52.3252 Info Adding target FileTarget(Name=jsonFile)
+2022-03-30 15:32:52.3340 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-30 15:32:52.4077 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-30 15:32:52.4838 Info Configuration initialized.
+2022-03-30 15:32:52.4865 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-30 16:19:40.2992 Info AppDomain Shutting down. Logger closing...
+2022-03-30 16:19:40.3230 Info Logger has been shut down.
+2022-03-30 16:19:49.0188 Info Message Template Auto Format enabled
+2022-03-30 16:19:49.0410 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-30 16:19:49.1085 Info Adding target FileTarget(Name=jsonFile)
+2022-03-30 16:19:49.1177 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-30 16:19:49.1941 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-30 16:19:49.2772 Info Configuration initialized.
+2022-03-30 16:19:49.2795 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-30 16:34:03.8028 Info AppDomain Shutting down. Logger closing...
+2022-03-30 16:34:03.8262 Info Logger has been shut down.
+2022-03-30 16:34:12.1816 Info Message Template Auto Format enabled
+2022-03-30 16:34:12.2028 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-30 16:34:12.2687 Info Adding target FileTarget(Name=jsonFile)
+2022-03-30 16:34:12.2777 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-30 16:34:12.4740 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-30 16:34:12.5589 Info Configuration initialized.
+2022-03-30 16:34:12.5623 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 17:36:48.7126 Info AppDomain Shutting down. Logger closing...
+2022-03-31 17:36:48.7442 Info Logger has been shut down.
+2022-03-31 17:39:43.6374 Info Message Template Auto Format enabled
+2022-03-31 17:39:43.6606 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 17:39:43.7289 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 17:39:43.7383 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 17:39:43.8134 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 17:39:43.8976 Info Configuration initialized.
+2022-03-31 17:39:43.9003 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 17:40:44.4815 Info AppDomain Shutting down. Logger closing...
+2022-03-31 17:40:44.4959 Info Logger has been shut down.
+2022-03-31 18:31:15.1439 Info Message Template Auto Format enabled
+2022-03-31 18:31:15.1712 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 18:31:15.2391 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 18:31:15.2489 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 18:31:15.3234 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 18:31:15.4182 Info Configuration initialized.
+2022-03-31 18:31:15.4204 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 18:33:37.2373 Info AppDomain Shutting down. Logger closing...
+2022-03-31 18:33:37.2581 Info Logger has been shut down.
+2022-03-31 18:34:03.4882 Info Message Template Auto Format enabled
+2022-03-31 18:34:03.5265 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 18:34:03.5989 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 18:34:03.6089 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 18:34:03.7023 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 18:34:03.7892 Info Configuration initialized.
+2022-03-31 18:34:03.7916 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 18:34:47.3261 Info AppDomain Shutting down. Logger closing...
+2022-03-31 18:34:47.3423 Info Logger has been shut down.
+2022-03-31 18:35:11.0595 Info Message Template Auto Format enabled
+2022-03-31 18:35:11.0908 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 18:35:11.1622 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 18:35:11.1735 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 18:35:11.2482 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 18:35:11.3426 Info Configuration initialized.
+2022-03-31 18:35:11.3449 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 19:14:47.8010 Info AppDomain Shutting down. Logger closing...
+2022-03-31 19:14:47.8390 Info Logger has been shut down.
+2022-03-31 19:14:58.4865 Info Message Template Auto Format enabled
+2022-03-31 19:14:58.5158 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 19:14:58.5867 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 19:14:58.5995 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 19:14:58.6824 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 19:14:58.7657 Info Configuration initialized.
+2022-03-31 19:14:58.7680 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 19:29:29.2951 Info Message Template Auto Format enabled
+2022-03-31 19:29:29.3170 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 19:29:29.3813 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 19:29:29.3914 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 19:29:29.4666 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 19:29:29.5751 Info Configuration initialized.
+2022-03-31 19:29:29.5788 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 19:39:58.5095 Info AppDomain Shutting down. Logger closing...
+2022-03-31 19:39:58.5348 Info Logger has been shut down.
+2022-03-31 19:40:07.1293 Info Message Template Auto Format enabled
+2022-03-31 19:40:07.1521 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 19:40:07.2250 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 19:40:07.2339 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 19:40:07.3267 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 19:40:07.4076 Info Configuration initialized.
+2022-03-31 19:40:07.4125 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 19:40:41.8841 Info AppDomain Shutting down. Logger closing...
+2022-03-31 19:40:41.8979 Info Logger has been shut down.
+2022-03-31 19:40:49.9237 Info Message Template Auto Format enabled
+2022-03-31 19:40:49.9460 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 19:40:50.0131 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 19:40:50.0222 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 19:40:50.0954 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 19:40:50.1739 Info Configuration initialized.
+2022-03-31 19:40:50.1770 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 19:50:36.5188 Info AppDomain Shutting down. Logger closing...
+2022-03-31 19:50:36.5464 Info Logger has been shut down.
+2022-03-31 19:50:44.6616 Info Message Template Auto Format enabled
+2022-03-31 19:50:44.6837 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 19:50:44.7487 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 19:50:44.7574 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 19:50:44.8586 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 19:50:44.9529 Info Configuration initialized.
+2022-03-31 19:50:44.9560 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 20:04:57.1584 Info AppDomain Shutting down. Logger closing...
+2022-03-31 20:04:57.1751 Info Logger has been shut down.
+2022-03-31 20:05:04.8472 Info Message Template Auto Format enabled
+2022-03-31 20:05:04.8690 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 20:05:04.9350 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 20:05:04.9442 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 20:05:05.0219 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 20:05:05.0981 Info Configuration initialized.
+2022-03-31 20:05:05.1007 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-03-31 20:06:57.8396 Info AppDomain Shutting down. Logger closing...
+2022-03-31 20:06:57.8566 Info Logger has been shut down.
+2022-03-31 20:07:06.3918 Info Message Template Auto Format enabled
+2022-03-31 20:07:06.4124 Info Loading assembly: NLog.Web.AspNetCore
+2022-03-31 20:07:06.4787 Info Adding target FileTarget(Name=jsonFile)
+2022-03-31 20:07:06.4884 Info Adding target DatabaseTarget(Name=dbase)
+2022-03-31 20:07:06.5638 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-03-31 20:07:06.6400 Info Configuration initialized.
+2022-03-31 20:07:06.6428 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 10:56:29.4540 Info AppDomain Shutting down. Logger closing...
+2022-04-01 10:56:29.4739 Info Logger has been shut down.
+2022-04-01 10:56:37.7464 Info Message Template Auto Format enabled
+2022-04-01 10:56:37.7712 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 10:56:37.8375 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 10:56:37.8468 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 10:56:37.9216 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 10:56:38.0065 Info Configuration initialized.
+2022-04-01 10:56:38.0090 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 10:57:03.2821 Info AppDomain Shutting down. Logger closing...
+2022-04-01 10:57:03.2969 Info Logger has been shut down.
+2022-04-01 10:57:11.0082 Info Message Template Auto Format enabled
+2022-04-01 10:57:11.0295 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 10:57:11.0961 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 10:57:11.1050 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 10:57:11.1950 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 10:57:11.2744 Info Configuration initialized.
+2022-04-01 10:57:11.2770 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 10:57:49.6457 Info AppDomain Shutting down. Logger closing...
+2022-04-01 10:57:49.6607 Info Logger has been shut down.
+2022-04-01 10:57:57.4154 Info Message Template Auto Format enabled
+2022-04-01 10:57:57.4387 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 10:57:57.5046 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 10:57:57.5134 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 10:57:57.5869 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 10:57:57.6622 Info Configuration initialized.
+2022-04-01 10:57:57.6649 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:01:02.8152 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:01:02.8311 Info Logger has been shut down.
+2022-04-01 11:01:10.4776 Info Message Template Auto Format enabled
+2022-04-01 11:01:10.4999 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:01:10.5651 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:01:10.5737 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:01:10.6484 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:01:10.7286 Info Configuration initialized.
+2022-04-01 11:01:10.7315 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:04:00.7424 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:04:00.7604 Info Logger has been shut down.
+2022-04-01 11:04:08.6776 Info Message Template Auto Format enabled
+2022-04-01 11:04:08.6992 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:04:08.7660 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:04:08.7857 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:04:08.8993 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:04:08.9764 Info Configuration initialized.
+2022-04-01 11:04:08.9790 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:05:03.7872 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:05:03.8023 Info Logger has been shut down.
+2022-04-01 11:05:11.1165 Info Message Template Auto Format enabled
+2022-04-01 11:05:11.1395 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:05:11.2073 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:05:11.2163 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:05:11.2916 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:05:11.3724 Info Configuration initialized.
+2022-04-01 11:05:11.3752 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:06:37.6480 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:06:37.6629 Info Logger has been shut down.
+2022-04-01 11:06:45.8096 Info Message Template Auto Format enabled
+2022-04-01 11:06:45.8316 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:06:45.8991 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:06:45.9080 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:06:45.9989 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:06:46.0752 Info Configuration initialized.
+2022-04-01 11:06:46.0787 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:08:23.7902 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:08:23.8067 Info Logger has been shut down.
+2022-04-01 11:08:31.4087 Info Message Template Auto Format enabled
+2022-04-01 11:08:31.4305 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:08:31.4966 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:08:31.5063 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:08:31.5950 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:08:31.6705 Info Configuration initialized.
+2022-04-01 11:08:31.6747 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:09:16.4174 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:09:16.4324 Info Logger has been shut down.
+2022-04-01 11:09:24.4299 Info Message Template Auto Format enabled
+2022-04-01 11:09:24.4643 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:09:24.5550 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:09:24.5690 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:09:24.6701 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:09:24.7556 Info Configuration initialized.
+2022-04-01 11:09:24.7583 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:09:49.8557 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:09:49.8703 Info Logger has been shut down.
+2022-04-01 11:09:57.6310 Info Message Template Auto Format enabled
+2022-04-01 11:09:57.6523 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:09:57.7168 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:09:57.7257 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:09:57.8014 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:09:57.8782 Info Configuration initialized.
+2022-04-01 11:09:57.8811 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-01 11:14:01.4665 Info AppDomain Shutting down. Logger closing...
+2022-04-01 11:14:01.4870 Info Logger has been shut down.
+2022-04-01 11:14:09.8683 Info Message Template Auto Format enabled
+2022-04-01 11:14:09.8931 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-01 11:14:09.9902 Info Adding target FileTarget(Name=jsonFile)
+2022-04-01 11:14:10.0014 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-01 11:14:10.0807 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-01 11:14:10.1564 Info Configuration initialized.
+2022-04-01 11:14:10.1593 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-03 23:42:03.1692 Info Message Template Auto Format enabled
+2022-04-03 23:42:03.1986 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-03 23:42:03.2911 Info Adding target FileTarget(Name=jsonFile)
+2022-04-03 23:42:03.3034 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-03 23:42:03.3723 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-03 23:42:03.5002 Info Configuration initialized.
+2022-04-03 23:42:03.5104 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-05 12:51:30.7127 Info Message Template Auto Format enabled
+2022-04-05 12:51:30.7487 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-05 12:51:30.8700 Info Adding target FileTarget(Name=jsonFile)
+2022-04-05 12:51:30.8857 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-05 12:51:30.9836 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-05 12:51:31.1344 Info Configuration initialized.
+2022-04-05 12:51:31.1388 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-05 16:08:30.7854 Info AppDomain Shutting down. Logger closing...
+2022-04-05 16:08:30.8317 Info Logger has been shut down.
+2022-04-05 16:08:43.4568 Info Message Template Auto Format enabled
+2022-04-05 16:08:43.5127 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-05 16:08:43.6604 Info Adding target FileTarget(Name=jsonFile)
+2022-04-05 16:08:43.6844 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-05 16:08:43.9874 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-05 16:08:44.1603 Info Configuration initialized.
+2022-04-05 16:08:44.1760 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-06 10:26:01.2724 Info Message Template Auto Format enabled
+2022-04-06 10:26:01.2931 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 10:26:01.3560 Info Adding target FileTarget(Name=jsonFile)
+2022-04-06 10:26:01.3644 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-06 10:26:01.4352 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-06 10:26:01.5404 Info Configuration initialized.
+2022-04-06 10:26:01.5427 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-06 12:25:04.0573 Info AppDomain Shutting down. Logger closing...
+2022-04-06 12:25:04.0847 Info Logger has been shut down.
+2022-04-06 12:25:11.7822 Info Message Template Auto Format enabled
+2022-04-06 12:25:11.8067 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-06 12:25:11.8961 Info Adding target FileTarget(Name=jsonFile)
+2022-04-06 12:25:11.9063 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-06 12:25:11.9702 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-06 12:25:12.0578 Info Configuration initialized.
+2022-04-06 12:25:12.0609 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-07 09:41:02.8460 Info Message Template Auto Format enabled
+2022-04-07 09:41:02.8730 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-07 09:41:02.9420 Info Adding target FileTarget(Name=jsonFile)
+2022-04-07 09:41:02.9511 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-07 09:41:03.0007 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-07 09:41:03.1105 Info Configuration initialized.
+2022-04-07 09:41:03.1134 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-07 13:03:08.1981 Info AppDomain Shutting down. Logger closing...
+2022-04-07 13:03:08.2257 Info Logger has been shut down.
+2022-04-07 13:03:20.0317 Info Message Template Auto Format enabled
+2022-04-07 13:03:20.0570 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-07 13:03:20.1222 Info Adding target FileTarget(Name=jsonFile)
+2022-04-07 13:03:20.1311 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-07 13:03:20.1814 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-07 13:03:20.2607 Info Configuration initialized.
+2022-04-07 13:03:20.2627 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-07 13:26:01.9365 Info AppDomain Shutting down. Logger closing...
+2022-04-07 13:26:12.0503 Info Message Template Auto Format enabled
+2022-04-07 13:26:12.0804 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-07 13:26:12.1678 Info Adding target FileTarget(Name=jsonFile)
+2022-04-07 13:26:12.1813 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-07 13:26:12.2447 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-07 13:26:12.3433 Info Configuration initialized.
+2022-04-07 13:26:12.3460 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-07 13:48:40.0874 Info AppDomain Shutting down. Logger closing...
+2022-04-07 13:48:40.1047 Info Logger has been shut down.
+2022-04-07 13:48:58.4031 Info Message Template Auto Format enabled
+2022-04-07 13:48:58.4275 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-07 13:48:58.4963 Info Adding target FileTarget(Name=jsonFile)
+2022-04-07 13:48:58.5062 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-07 13:48:58.5534 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-07 13:48:58.6795 Info Configuration initialized.
+2022-04-07 13:48:58.6839 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-08 10:11:14.8152 Info Message Template Auto Format enabled
+2022-04-08 10:11:14.8417 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 10:11:14.9318 Info Adding target FileTarget(Name=jsonFile)
+2022-04-08 10:11:14.9454 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-08 10:11:15.0370 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-08 10:11:15.1514 Info Configuration initialized.
+2022-04-08 10:11:15.1544 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-08 10:16:51.3246 Info Message Template Auto Format enabled
+2022-04-08 10:16:51.3465 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 10:16:51.4076 Info Adding target FileTarget(Name=jsonFile)
+2022-04-08 10:16:51.4218 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-08 10:16:51.4750 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-08 10:16:51.5541 Info Configuration initialized.
+2022-04-08 10:16:51.5561 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-08 10:58:16.3466 Info AppDomain Shutting down. Logger closing...
+2022-04-08 10:58:16.3636 Info Logger has been shut down.
+2022-04-08 10:58:24.3924 Info Message Template Auto Format enabled
+2022-04-08 10:58:24.4143 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 10:58:24.4790 Info Adding target FileTarget(Name=jsonFile)
+2022-04-08 10:58:24.4881 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-08 10:58:24.5449 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-08 10:58:24.6180 Info Configuration initialized.
+2022-04-08 10:58:24.6207 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-08 15:57:17.6329 Info Message Template Auto Format enabled
+2022-04-08 15:57:17.6891 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-08 15:57:17.7786 Info Adding target FileTarget(Name=jsonFile)
+2022-04-08 15:57:17.7949 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-08 15:57:17.8777 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=/Users/selimd/Projects/marsis/backend/thy_arac_takip_sistemi_api/thy_arac_takip_sistemi_api/bin/Debug/netcoreapp3.1/NLog.config
+2022-04-08 15:57:17.9865 Info Configuration initialized.
+2022-04-08 15:57:17.9895 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-11 19:05:44.8640 Info Message Template Auto Format enabled
+2022-04-11 19:05:44.8640 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 19:05:44.9173 Info Adding target FileTarget(Name=jsonFile)
+2022-04-11 19:05:44.9258 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-11 19:05:44.9475 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-11 19:05:45.1338 Info Configuration initialized.
+2022-04-11 19:05:45.1338 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-11 19:06:32.8901 Info Message Template Auto Format enabled
+2022-04-11 19:06:32.8979 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 19:06:32.9400 Info Adding target FileTarget(Name=jsonFile)
+2022-04-11 19:06:32.9471 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-11 19:06:32.9693 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-11 19:06:33.0502 Info Configuration initialized.
+2022-04-11 19:06:33.0510 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-11 19:15:37.5663 Info Message Template Auto Format enabled
+2022-04-11 19:15:37.5663 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 19:15:37.6175 Info Adding target FileTarget(Name=jsonFile)
+2022-04-11 19:15:37.6175 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-11 19:15:37.6490 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-11 19:15:37.7315 Info Configuration initialized.
+2022-04-11 19:15:37.7315 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-11 22:08:19.8399 Info Message Template Auto Format enabled
+2022-04-11 22:08:19.8516 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 22:08:19.9208 Info Adding target FileTarget(Name=jsonFile)
+2022-04-11 22:08:19.9307 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-11 22:08:19.9646 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-11 22:08:20.0983 Info Configuration initialized.
+2022-04-11 22:08:20.0983 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-11 22:09:03.0155 Info Message Template Auto Format enabled
+2022-04-11 22:09:03.0325 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-11 22:09:03.1081 Info Adding target FileTarget(Name=jsonFile)
+2022-04-11 22:09:03.1209 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-11 22:09:03.1655 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-11 22:09:03.2896 Info Configuration initialized.
+2022-04-11 22:09:03.2896 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-22 15:17:04.4573 Info Message Template Auto Format enabled
+2022-04-22 15:17:04.4678 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-22 15:17:04.5163 Info Adding target FileTarget(Name=jsonFile)
+2022-04-22 15:17:04.5230 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-22 15:17:04.5486 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-22 15:17:04.7695 Info Configuration initialized.
+2022-04-22 15:17:04.7695 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-22 15:22:18.5897 Info Message Template Auto Format enabled
+2022-04-22 15:22:18.5997 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-22 15:22:18.6774 Info Adding target FileTarget(Name=jsonFile)
+2022-04-22 15:22:18.6946 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-22 15:22:18.7321 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-22 15:22:18.8250 Info Configuration initialized.
+2022-04-22 15:22:18.8250 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-04-22 15:43:01.3110 Info Message Template Auto Format enabled
+2022-04-22 15:43:01.3249 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-22 15:43:01.4036 Info Adding target FileTarget(Name=jsonFile)
+2022-04-22 15:43:01.4128 Info Adding target DatabaseTarget(Name=dbase)
+2022-04-22 15:43:01.4604 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-22 15:43:01.5827 Info Configuration initialized.
+2022-04-22 15:43:01.5887 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:21:25.0564 Info Message Template Auto Format enabled
+2022-06-25 07:21:25.0641 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:21:25.1218 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:21:25.1315 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:21:25.1557 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:21:25.4288 Info Configuration initialized.
+2022-06-25 07:21:25.4288 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:22:35.5024 Info Message Template Auto Format enabled
+2022-06-25 07:22:35.5024 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:22:35.6120 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:22:35.6536 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:22:35.7209 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:22:35.8698 Info Configuration initialized.
+2022-06-25 07:22:35.8698 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:24:48.7116 Info Message Template Auto Format enabled
+2022-06-25 07:24:48.7185 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:24:48.7983 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:24:48.7983 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:24:48.8416 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:24:48.9694 Info Configuration initialized.
+2022-06-25 07:24:48.9694 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:25:17.7741 Info Message Template Auto Format enabled
+2022-06-25 07:25:17.7833 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:25:17.8549 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:25:17.8645 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:25:17.9086 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:25:17.9915 Info Configuration initialized.
+2022-06-25 07:25:17.9915 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:34:13.0340 Info Message Template Auto Format enabled
+2022-06-25 07:34:13.0454 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:34:13.1318 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:34:13.1606 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:34:13.1945 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:34:13.3894 Info Configuration initialized.
+2022-06-25 07:34:13.3894 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 07:38:45.6120 Info Message Template Auto Format enabled
+2022-06-25 07:38:45.6250 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 07:38:45.6816 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 07:38:45.6900 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 07:38:45.7215 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 07:38:45.7974 Info Configuration initialized.
+2022-06-25 07:38:45.7974 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
