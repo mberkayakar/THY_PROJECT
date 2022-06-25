@@ -43,3 +43,17 @@ Buraya Kadar olan kısımda Warning mesajları bitmiş bulunmaktadır.
 
 Gelen excell dosyasının düzenlenmesi
 
+ db.Users.Add(new User
+                            {
+                                name = workSheet.Cells[row, 1].Value.ToString().Trim() ?? "",
+                                surname = workSheet.Cells[row, 2].Value.ToString().Trim() ?? "",
+                                phoneNumber = workSheet.Cells[row, 3].Value.ToString().Trim() ?? "",
+                                email = workSheet.Cells[row, 4].Value.ToString().Trim() ?? "",
+                                dateLastLogin = DateTime.Now,
+                                dateCreated = DateTime.Now,
+                            }) ;
+
+gelen datayı bu şekilde ayırarak kaydediyor. Dikkat edilmesi gereken Authory ve Userid kolonları boş kalıyor.
+
+
+

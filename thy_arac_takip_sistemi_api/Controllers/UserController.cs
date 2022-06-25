@@ -182,17 +182,17 @@ namespace thy_arac_takip_sistemi_api.Controllers
                     for (int row = 2; row <= rowCount; row++)
                     {
                         //unique ßemail constraint
-                        if (db.Users.FirstOrDefault(e => e.email == workSheet.Cells[row, 2].Value.ToString().Trim()) == null)
+                        if (db.Users.FirstOrDefault(e => e.email == workSheet.Cells[row, 4].Value.ToString().Trim()) == null)
                         {
-                            System.Console.WriteLine(workSheet.Cells[row, 1].Value.ToString().Trim());
                             db.Users.Add(new User
                             {
-
-                                userId = workSheet.Cells[row, 1].Value.ToString().Trim() ?? "",
-                                email = workSheet.Cells[row, 2].Value.ToString().Trim() ?? "",
-                                authority = workSheet.Cells[row, 3].Value.ToString().Trim() ?? "",
+                                name = workSheet.Cells[row, 1].Value.ToString().Trim() ?? "",
+                                surname = workSheet.Cells[row, 2].Value.ToString().Trim() ?? "",
+                                phoneNumber = workSheet.Cells[row, 3].Value.ToString().Trim() ?? "",
+                                email = workSheet.Cells[row, 4].Value.ToString().Trim() ?? "",
+                                dateLastLogin = DateTime.Now,
                                 dateCreated = DateTime.Now,
-                            });
+                            }) ;
                         }
                     }
                     db.SaveChanges();
