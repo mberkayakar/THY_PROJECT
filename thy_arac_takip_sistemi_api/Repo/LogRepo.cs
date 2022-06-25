@@ -17,7 +17,11 @@ namespace thy_arac_takip_sistemi_api.Repo
 
         }
 
-        IQueryable<NLogItem> ILogs.GetLogs => db.NLogs.Skip(Math.Max(0, db.NLogs.Count() - 500)).OrderBy(e => e.Date);
+        IQueryable<NLogItem> ILogs.GetLogs => db.NLogs.OrderBy(e => e.Date).Skip(Math.Max(0, db.NLogs.Count() - 500));
+
+       // Eski Hali 
+        //IQueryable<NLogItem> ILogs.GetLogs => db.NLogs.Skip(Math.Max(0, db.NLogs.Count() - 500)).OrderBy(e => e.Date);
+
 
 
     }

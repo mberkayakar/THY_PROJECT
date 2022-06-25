@@ -1,0 +1,305 @@
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\logs\log-2022-01-06.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.exe
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.deps.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.dev.json
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\staticwebassets\thy_arac_takip_sistemi_api.StaticWebAssets.Manifest.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\staticwebassets\thy_arac_takip_sistemi_api.StaticWebAssets.xml
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\scopedcss\bundle\thy_arac_takip_sistemi_api.styles.css
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.RazorTargetAssemblyInfo.cache
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CopyComplete
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\recep\OneDrive\Masaüstü\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.genruntimeconfig.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\logs\log-2022-01-06.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.exe
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.deps.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.dev.json
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.AssemblyReference.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfoInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CoreCompileInputs.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\staticwebassets\thy_arac_takip_sistemi_api.StaticWebAssets.Manifest.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\staticwebassets\thy_arac_takip_sistemi_api.StaticWebAssets.xml
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\scopedcss\bundle\thy_arac_takip_sistemi_api.styles.css
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.RazorTargetAssemblyInfo.cache
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CopyComplete
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\recep\OneDrive\Masaüstü\ThySso\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\logs\log-2022-01-06.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.StaticWebAssets.xml
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\EPPlus.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\staticwebassets\thy_arac_takip_sistemi_api.StaticWebAssets.Manifest.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\obj\Debug\netcoreapp3.1\thy_arac_takip_sistemi_api.genruntimeconfig.cache

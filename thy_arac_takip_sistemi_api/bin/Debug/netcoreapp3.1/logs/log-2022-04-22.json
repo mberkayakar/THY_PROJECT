@@ -1,0 +1,9 @@
+{ "time": "2022-04-22 15:18:05.2960", "level": "INFO", "Properties": { "message": "Check reservation with pts. Plate : 34asd23" } }
+{ "time": "2022-04-22 15:22:26.3983", "level": "INFO", "Properties": { "message": "Check reservation with pts. Plate : 34asd23" } }
+{ "time": "2022-04-22 15:43:41.2706", "level": "INFO", "Properties": { "message": "Update Door States Starting" } }
+{ "time": "2022-04-22 15:44:17.2500", "level": "ERROR", "Properties": { "message": "Update Door States ReaderId or Door Data NOT null But Flag is False Exception : System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at thy_arac_takip_sistemi_api.Repo.ReaderRepo.thy_arac_takip_sistemi_api.Interfaces.IReaderModule.UpdateDoorStates(Int32 id, String doorData) in C:\\Users\\recep\\OneDrive\\Masa\u00fcst\u00fc\\ThySso\\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\\thy_arac_takip_sistemi_api\\Repo\\ReaderRepo.cs:line 140  : readerID:1 --- data: 111" } }
+{ "time": "2022-04-22 15:44:33.2835", "level": "INFO", "Properties": { "message": "Create Reader Module Starting" } }
+{ "time": "2022-04-22 15:44:33.9593", "level": "INFO", "Properties": { "message": "Create Reader Module Finished Returning OK" } }
+{ "time": "2022-04-22 15:44:45.7539", "level": "INFO", "Properties": { "message": "Update Door States Starting" } }
+{ "time": "2022-04-22 15:44:53.6217", "level": "INFO", "Properties": { "message": "Update Door States Finished Returning OK readerModuleID:1 door data 111" } }
+{ "time": "2022-04-22 15:45:02.6557", "level": "INFO", "Properties": { "message": "Update Door States Starting" } }

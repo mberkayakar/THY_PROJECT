@@ -29,6 +29,14 @@ namespace thy_arac_takip_sistemi_api.Repo
         //Get all reservations
         List<Reservation> IReservation.GetReservations()
         {
+            #region Açıklama
+            // üstteki getall Kısmından gelen Query ile ilgili bir problem oluşturabileceğinden bahsediyo.
+            // herhangi bi assplitquery yazmamışsın defaultta bu yavaş çalışıyor haberin olsun diye sana 
+            // yavaş çalışması ile ilgili bir uyarı mesajı döndürüyor. Kısacası hata değil. Sanırım bu şekilde
+            // sorguyu subquery lere bölünerek bir işleyiş gerçekleştiriliyor. asssplitquery kısmı eklendi
+            // sizde bi incelersiniz 
+
+            #endregion
             var list = db.Reservations.Include(s => s.awbList).ThenInclude(d => d.sccList).Where(e => e.reservationType != 1).ToList();
             return list;
         }

@@ -1,0 +1,45 @@
+1.) Reservation Getall Kısmı için 
+
+// repository içerisinde herhangi bir assplitquery yapılandırılması yapılmamış.
+// sorgunun türkçe mesajına bakıldığında bu sorgu birçok include içerdiğinden kaynaklı
+// olarak performansta yavaş çalışabileceği ile ilgili olarak sizlere bir uyarı mesajı döndürmektedir.
+// bur bir hata değil sadece bir uyarı mesajı. Ama ileride büyük sorgularda ve datada kesinlikle problem çıkarabilir.
+
+https://joshthecoder.com/2022/04/19/orm-queries-too-many-includes.html
+
+// çok ingilizcem olmadığı için buraya tam manası ile anlayamadım. Olan kodu kopyalayıp startup.cs  içerisinde UsqSqlConnection içerisine gerekli sorgu eklendi.
+// postmanda yaptigim testler sonucunda eski haliyle 50 - 60 ms ten 30 - 25 ms e kadar düşüş sağlandı sizde bi bakarsınız .
+
+
+
+
+2.) Hata için : 
+
+LogController için GetLog Fonksiyonu (Repsitory içerisinde)
+
+Hata Mesajının ingilizcesi : 
+
+The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. 
+
+Türkçesi 
+
+Sorgu, 'OrderBy' operatörü olmadan bir satır sınırlama operatörü ('Atla'/'Al') kullanır. Bu, öngörülemeyen sonuçlara yol açabilir. 
+//önce order by alarak sonrasında ise skip komutunu sona alınarak bu hatanın düzeleceğini düşündüm eski hali ise açıklama satırı olarak sistemde mevcuttur. 
+
+3.) Sorun //
+
+Category: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware EventId: 3 RequestId: 80000219-0002-fe00-b63f-84710c7967bb RequestPath: 
+/smartdock/user/login SpanId: |5d952ee3-42e7068ed633bae0. TraceId: 5d952ee3-42e7068ed633bae0 ParentId: Failed to determine the https port for redirect.
+
+Http - Https yönlendirilmesi ile ilgili bir uyarı mesajı 
+Bunu Çözemedim Çünkü anlamadım
+
+
+Buraya Kadar olan kısımda Warning mesajları bitmiş bulunmaktadır. 
+
+
+Şimdi ise sırası ile projeye gelelim
+
+
+Gelen excell dosyasının düzenlenmesi
+

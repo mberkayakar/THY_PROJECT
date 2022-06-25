@@ -421,3 +421,52 @@
 2022-06-25 07:38:45.7215 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
 2022-06-25 07:38:45.7974 Info Configuration initialized.
 2022-06-25 07:38:45.7974 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:17:24.0238 Info Message Template Auto Format enabled
+2022-06-25 09:17:24.0304 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:17:24.0771 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:17:24.0771 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:17:24.1130 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:17:24.3940 Info Configuration initialized.
+2022-06-25 09:17:24.3940 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:19:03.8909 Info Message Template Auto Format enabled
+2022-06-25 09:19:03.9059 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:19:04.0498 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:19:04.0498 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:19:04.0925 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:19:04.2653 Info Configuration initialized.
+2022-06-25 09:19:04.2653 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:19:40.4287 Info Message Template Auto Format enabled
+2022-06-25 09:19:40.4514 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:19:40.5222 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:19:40.5306 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:19:40.5545 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:19:40.6318 Info Configuration initialized.
+2022-06-25 09:19:40.6318 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:21:08.5143 Info Message Template Auto Format enabled
+2022-06-25 09:21:08.5143 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:21:08.5692 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:21:08.5692 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:21:08.6043 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:21:08.6852 Info Configuration initialized.
+2022-06-25 09:21:08.6860 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:24:26.8189 Info Message Template Auto Format enabled
+2022-06-25 09:24:26.8299 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:24:26.8862 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:24:26.8956 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:24:26.9256 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:24:27.0134 Info Configuration initialized.
+2022-06-25 09:24:27.0140 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:25:16.9177 Info Message Template Auto Format enabled
+2022-06-25 09:25:16.9313 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:25:17.0131 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:25:17.0201 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:25:17.0484 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:25:17.1335 Info Configuration initialized.
+2022-06-25 09:25:17.1335 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False
+2022-06-25 09:39:35.5340 Info Message Template Auto Format enabled
+2022-06-25 09:39:35.5340 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-25 09:39:35.6049 Info Adding target FileTarget(Name=jsonFile)
+2022-06-25 09:39:35.6132 Info Adding target DatabaseTarget(Name=dbase)
+2022-06-25 09:39:35.6387 Info Validating config: TargetNames=jsonFile, dbase, ConfigItems=41, FilePath=C:\Users\Muhammed Berkay AKAR\Desktop\THY_ARAC_TAKIP_SISTEMI_BACKEND-master\thy_arac_takip_sistemi_api\bin\Debug\netcoreapp3.1\NLog.config
+2022-06-25 09:39:35.7103 Info Configuration initialized.
+2022-06-25 09:39:35.7103 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False

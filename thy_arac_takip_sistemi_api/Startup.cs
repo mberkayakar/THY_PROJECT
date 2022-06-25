@@ -33,7 +33,12 @@ namespace thy_arac_takip_sistemi_api
            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
        );
             string conn = Configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContext<MyDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<MyDbContext>(
+                // ekleme bu kısıma yapıldı 
+                options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")
+                ,o => o.UseQuerySplittingBehavior(QuerySplittingBehavior.SplitQuery)
+                
+                ));
             services.AddTransient<IReservation, ReservationRepo>();
             services.AddTransient<IReaderModule, ReaderRepo>();
             services.AddTransient<ISCC, SCCRepo>();
